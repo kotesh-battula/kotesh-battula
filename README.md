@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi, I am Battula Koteswrarao 
 
-<!--
-**kotesh-battula/kotesh-battula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Tech Information Technology graduate passionate about Java backend development and full-stack web development. I enjoy building real-world applications, solving programming problems, and continuously improving my software development skills.
 
-Here are some ideas to get you started:
+TECHNICAL SKILLS:
+-----------------
+Languages: Java, SQL, JavaScript
+Frontend: HTML, CSS
+Backend: Spring Boot, Spring Data JPA, Hibernate
+Database: MySQL
+Tools: Git, GitHub, VS Code, Eclipse, Intellij IDEA
+Cloud: AWS (Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+FEATURED PROJECTS:
+------------------
+1.Rainfall Data Analysis
+  - Java, SQL
+  - Analyzed rainfall data to generate useful insights.
+
+CURRENTLY LEARNING:
+-------------------
+Advanced Spring Boot
+REST APIs
+Data Structures & Algorithms
+AWS Cloud Services
+
+CONNECT WITH ME:
+----------------
+Linkedin : https://www.linkedin.com/in/kotesh-battula-648335260/
+GitHub   : https://github.com/kotesh-battula
