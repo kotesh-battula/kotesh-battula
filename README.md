@@ -26,5 +26,7 @@ FEATURED PROJECTS:
 
 CONNECT WITH ME:
 ----------------
-Linkedin : https://www.linkedin.com/in/kotesh-battula-648335260/
-GitHub   : https://github.com/kotesh-battula
+**LinkedIn:**  
+https://www.linkedin.com/in/kotesh-battula-648335260/
+**GitHub:**  
+https://github.com/kotesh-battula
